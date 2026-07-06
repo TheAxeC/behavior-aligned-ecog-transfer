@@ -1,0 +1,6 @@
+# Generated, cached, and dead-end files - not part of this deposit.
+results/
+attic/
+__pycache__/
+*.py[cod]
+.DS_Store
